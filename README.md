@@ -10,9 +10,9 @@
   
 ## 🚀 Key Features :
 
-Backend Services: A config.php file in the Config folder handles the database connection.
-Fully Functional Endpoints: Perform CRUD operations seamlessly.
-Developer-Friendly: Clean and organized structure, ready for further customization
+- <b>Backend Services</b> : A config.php file in the Config folder handles the database connection.
+- <b>Fully Functional Endpoints</b> : Perform CRUD operations seamlessly.
+- <b>Developer-Friendly</b> : Clean and organized structure, ready for further customization.
 
 <h2 align="center"> Video </h2>
 
